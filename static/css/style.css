@@ -317,8 +317,10 @@ body {
     max-width: 200px;
     aspect-ratio: 1/1;
     background-size: cover;
+    background-position: center center;
     border-radius: 50%;
     border: 0.5px solid #ffffff;
+    overflow: hidden;
 }
 .description {
 
@@ -918,5 +920,91 @@ footer {
     .tag {
         padding: 3px 6px;
         font-size: 0.75em;
+    }
+}
+
+.welcome-subtitle {
+    margin-top: -5px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    color: var(--main_text_color);
+}
+
+/* 教育部分样式 */
+.eduList {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.eduItem {
+    background-color: var(--item_bg_color);
+    border-left: 4px solid #FF9800; /* 橙色标记 */
+    border-radius: 8px;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.eduItem:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.eduHeader {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.eduSchool {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: var(--item_left_title_color);
+}
+
+.eduLocation {
+    font-size: 0.9em;
+    color: var(--item_left_text_color);
+}
+
+.eduDegree {
+    font-style: italic;
+    margin-bottom: 3px;
+    color: var(--item_left_text_color);
+}
+
+.eduTime {
+    text-align: right;
+    font-size: 0.9em;
+    color: var(--item_left_text_color);
+    margin-bottom: 10px;
+}
+
+.eduCourses {
+    padding-left: 20px;
+    color: var(--item_left_text_color);
+    line-height: 1.5;
+    font-size: 0.9em;
+}
+
+.eduCourses ul {
+    padding-left: 20px;
+    margin-top: 5px;
+}
+
+/* 移动端适配 */
+@media screen and (max-width: 768px) {
+    .eduHeader {
+        flex-direction: column;
+    }
+    
+    .eduTime {
+        text-align: left;
+    }
+    
+    .eduSchool, .eduLocation {
+        margin-bottom: 3px;
     }
 }
