@@ -1008,3 +1008,40 @@ footer {
         margin-bottom: 3px;
     }
 }
+
+/* Publication 专用列表 */
+.publist {
+    display: flex;
+    flex-direction: column;
+    gap: 18px; /* 每个publication之间留空 */
+}
+
+/* Publication 项目的字体细节调整 */
+.publist .projectItem {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+/* 调整 publication 标题字体 */
+.publist .projectItemLeft h1 {
+    font-size: 20px; /* 比原来小一点 */
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--item_left_title_color);
+    margin-bottom: 10px;
+}
+
+/* 调整 publication 作者字体 */
+.publist .projectItemLeft p {
+    font-size: 14px; /* 作者名字小一些 */
+    color: var(--item_left_text_color);
+    line-height: 1.6;
+    opacity: 0.8;
+}
+
+/* 调整 tag 位置 */
+.publist .projectTags {
+    margin-top: 8px;
+}
+
