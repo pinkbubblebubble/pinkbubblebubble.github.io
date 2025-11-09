@@ -45,7 +45,7 @@ Now, I'm actively seeking PhD (Fall 2026) opportunity especially in LLM reasonin
 
 Jiahao Qiu<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Ling Yang<sup>*</sup>, Xuan Qi, Tongcheng Zhang, Jiacheng Guo, Yifu Lu, Zixin Yao, Hongru Wang, Shilong Liu, Xun Jiang, Liu Leqi, Mengdi Wang
 
-<sup>*</sup>: equal contribution
+<sup>*</sup> These authors contributed equally to this work.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -59,7 +59,7 @@ Jiahao Qiu<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Lin
 
 Jiahao Qiu<sup>*</sup>, Fulian Xiao<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Yuchen Mao<sup>*</sup>, Yijia Chen<sup>*</sup>, Xinzhe Juan, Shu Zhang, Siran Wang, Xuan Qi, Tongcheng Zhang, Zixin Yao, Jiacheng Guo, Yifu Lu, Charles Argon, Jundi Cui, Daixin Chen, Junran Zhou, Shuyao Zhou, Zhanpeng Zhou, Ling Yang, Shilong Liu, Hongru Wang, Kaixuan Huang, Xun Jiang, ..., Xi Gao, Mengdi Wang
 
-<sup>*</sup>: equal contribution
+<sup>*</sup> These authors contributed equally to this work
 </div>
 </div>
 
@@ -70,7 +70,7 @@ Jiahao Qiu<sup>*</sup>, Fulian Xiao<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Yuc
 
 Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**, Yuhan Liu, Zixin Yao, Yue Wu, Xun Jiang, Ling Yang, Mengdi Wang
 
-<sup>*</sup>: equal contribution
+<sup>*</sup> These authors contributed equally to this work.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -85,7 +85,7 @@ Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin
 
 Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Tongcheng Zhang<sup>*</sup>, Xinzhe Juan, Jiacheng Guo, Yifu Lu, **Yimin Wang**, Zixin Yao, Qihan Ren, Xun Jiang, Xing Zhou, Dongrui Liu, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang
 
-<sup>*</sup>: equal contribution
+<sup>*</sup> These authors contributed equally to this work.
 
 </div>
 </div>
@@ -108,7 +108,7 @@ Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Ji
 - [High-precision control of an antagonistic soft continuum robot for dexterous objects grasping and assembly](https://www.sciencedirect.com/science/article/pii/S0924424725004753), Shoulu Gong, Xinchen Ye, **Yimin Wang**, Wenbo Li, Wenming Zhang, Lei Shao, **Sensors and Actuators A: Physical**.                                    
 - [A Novel Approach to Air Quality Monitoring: Towards Miniature, Self-organized, and Low-power Device](https://ieeexplore.ieee.org/abstract/document/10325267), Tao Wang, Yu Wu, Wangze Ni, Jianhua Yang, **Yimin Wang**, Jiaqing Zhu, Ming Zeng, Nantao Hu, Zhi Yang, **2023 IEEE SENSORS**.
 
-<sup>*</sup>: equal contribution
+<sup>*</sup> These authors contributed equally to this work.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* 
