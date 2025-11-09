@@ -36,7 +36,7 @@ Now, I'm actively seeking PhD (Fall 2026) opportunity especially in LLM reasonin
 - *2022.09 - present*, Shanghai Jiao Tong University, B.E in Mechanical Engineering. 
 
 
-# 📝 Publications 
+# 📝 Publications and Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review ICLR 2026</div><img src='images/agentdistill.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
