@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yimin Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate student\nUniversity of Michigan."
+  avatar           : "images/photo.jpg"
+  bio              : "Senior Undergraduate\nUniversity of Michigan & Shanghai Jiao Tong University"
   location         : "Ann Arbor, USA"
   employer         :
   pubmed           : 
@@ -37,13 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "pinkbubblebubble" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yimin-wang-8a0942327/"# e.g., "linkedin username"
+  linkedin         : "yimin-wang-8a0942327/"# e.g., "linkedin username"
+  cv               : "/files/Yimin_Wang_CV.pdf"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

@@ -49,6 +49,9 @@
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> CV</a></li>
+      {% endif %}
       {% if author.dblp %}
         <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a></li>
       {% endif %}
@@ -143,6 +146,9 @@
       {% endif %}
       {% if author.linkedin %}
         <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.cv %}
+        <a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.dblp %}
         <a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i></a>
