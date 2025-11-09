@@ -38,7 +38,7 @@ Now, I'm actively seeking PhD (Fall 2026) opportunity especially in LLM reasonin
 
 # 📝 Publications and Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review ICLR 2026</div><img src='images/agentdistill.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agentdistill.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes](https://arxiv.org/pdf/2506.14728)
@@ -52,7 +52,7 @@ Jiahao Qiu<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Lin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review ICLR 2026</div><img src='images/histagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/histagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On Path to Multimodal Historical Reasoning: HistBench and HistAgent](https://arxiv.org/pdf/2506.14728)
@@ -78,7 +78,7 @@ Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review ICLR 2026</div><img src='images/alita.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/alita.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution](https://arxiv.org/abs/2505.20286)
@@ -103,8 +103,8 @@ Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Ji
 </div> -->
 
 
-- [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983), Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen, under review ICLR 2026.
-- [Alita-G: Self-Evolving Generative Agent for Agent Generation](https://www.sciencedirect.com/science/article/pii/S0924424725004753), Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Hongru Wang<sup>*</sup>, Xinzhe Juan, **Yimin Wang**, Zelin Zhao, Jiayi Geng, Jiacheng Guo, Peihang Li, Jingzhe Shi, Shilong Liu, Mengdi Wang, under review ICLR 2026.
+- [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983), Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen, Preprint.
+- [Alita-G: Self-Evolving Generative Agent for Agent Generation](https://www.sciencedirect.com/science/article/pii/S0924424725004753), Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Hongru Wang<sup>*</sup>, Xinzhe Juan, **Yimin Wang**, Zelin Zhao, Jiayi Geng, Jiacheng Guo, Peihang Li, Jingzhe Shi, Shilong Liu, Mengdi Wang, Preprint.
 - [High-precision control of an antagonistic soft continuum robot for dexterous objects grasping and assembly](https://www.sciencedirect.com/science/article/pii/S0924424725004753), Shoulu Gong, Xinchen Ye, **Yimin Wang**, Wenbo Li, Wenming Zhang, Lei Shao, **Sensors and Actuators A: Physical**.                                    
 - [A Novel Approach to Air Quality Monitoring: Towards Miniature, Self-organized, and Low-power Device](https://ieeexplore.ieee.org/abstract/document/10325267), Tao Wang, Yu Wu, Wangze Ni, Jianhua Yang, **Yimin Wang**, Jiaqing Zhu, Ming Zeng, Nantao Hu, Zhi Yang, **2023 IEEE SENSORS**.
 
