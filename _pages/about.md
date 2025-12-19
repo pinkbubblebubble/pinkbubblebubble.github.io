@@ -36,7 +36,22 @@ Now, I'm actively seeking PhD (Fall 2026) opportunity especially in LLM reasonin
 - *2022.09 - present*, Shanghai Jiao Tong University, B.E in Mechanical Engineering. 
 
 
-# 📝 Publications and Preprints
+# 📝 Publications and 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Oral</div><img src='images/emoagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://aclanthology.org/2025.emnlp-main.594/)
+
+Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**, Yuhan Liu, Zixin Yao, Yue Wu, Xun Jiang, Ling Yang, Mengdi Wang
+
+<sup>*</sup> These authors contributed equally to this work.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agentdistill.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,19 +78,6 @@ Jiahao Qiu<sup>*</sup>, Fulian Xiao<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Yuc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 oral</div><img src='images/emoagent.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://aclanthology.org/2025.emnlp-main.594/)
-
-Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**, Yuhan Liu, Zixin Yao, Yue Wu, Xun Jiang, Ling Yang, Mengdi Wang
-
-<sup>*</sup> These authors contributed equally to this work.
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/alita.png' alt="sym" width="100%"></div></div>
@@ -90,7 +92,7 @@ Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Tongcheng Zhang<sup>*</sup>, Xinzhe
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review ICLR 2026</div><img src='images/genoarmory.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/genoarmory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983)
@@ -100,11 +102,11 @@ Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Ji
 <sup>*</sup> equal contribution
 
 </div>
-</div> -->
+</div>
 
 
-- [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983), Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen, Preprint.
-- [Alita-G: Self-Evolving Generative Agent for Agent Generation](https://www.sciencedirect.com/science/article/pii/S0924424725004753), Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Hongru Wang<sup>*</sup>, Xinzhe Juan, **Yimin Wang**, Zelin Zhao, Jiayi Geng, Jiacheng Guo, Peihang Li, Jingzhe Shi, Shilong Liu, Mengdi Wang, Preprint.
+<!-- - [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983), Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen, Preprint. -->
+- [Alita-G: Self-Evolving Generative Agent for Agent Generation](https://arxiv.org/abs/2510.23601), Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Hongru Wang<sup>*</sup>, Xinzhe Juan, **Yimin Wang**, Zelin Zhao, Jiayi Geng, Jiacheng Guo, Peihang Li, Jingzhe Shi, Shilong Liu, Mengdi Wang, Preprint.
 - [High-precision control of an antagonistic soft continuum robot for dexterous objects grasping and assembly](https://www.sciencedirect.com/science/article/pii/S0924424725004753), Shoulu Gong, Xinchen Ye, **Yimin Wang**, Wenbo Li, Wenming Zhang, Lei Shao, **Sensors and Actuators A: Physical**.                                    
 - [A Novel Approach to Air Quality Monitoring: Towards Miniature, Self-organized, and Low-power Device](https://ieeexplore.ieee.org/abstract/document/10325267), Tao Wang, Yu Wu, Wangze Ni, Jianhua Yang, **Yimin Wang**, Jiaqing Zhu, Ming Zeng, Nantao Hu, Zhi Yang, **2023 IEEE SENSORS**.
 
