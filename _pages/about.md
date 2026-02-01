@@ -36,7 +36,7 @@ Now, I'm actively seeking PhD (Fall 2026) opportunity especially in LLM reasonin
 - *2022.09 - present*, Shanghai Jiao Tong University, B.E in Mechanical Engineering. 
 
 
-# 📝 Publications and 
+# 📝 Publications and Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Oral</div><img src='images/emoagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,6 +51,21 @@ Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/agentrouting.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Agent Routing From Early Experience](https://pinkbubblebubble.github.io/)
+
+**Yimin Wang**, Jiahao Qiu, Xuan Qi, Xinzhe Juan, Jingzhe Shi, Zelin Zhao, Hongru WANG, Shilong Liu, Mengdi Wang
+
+<!-- <sup>*</sup> These authors contributed equally to this work. -->
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agentdistill.png' alt="sym" width="100%"></div></div>
