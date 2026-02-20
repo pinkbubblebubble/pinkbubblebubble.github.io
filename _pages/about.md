@@ -149,8 +149,6 @@ Developed by Li Qichen, Wang Yimin, Wu Lv, You Yuchen
 </div>
 </div>
 
----
-
 # Service
 
 - _2025.09 - 2025.12_, Grader for EECS496 Professionalism (Major Design Experience), University of Michigan, USA.
