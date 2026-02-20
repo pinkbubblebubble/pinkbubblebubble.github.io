@@ -46,8 +46,8 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    border-bottom: 1px $border-color solid;
+    padding: 2.5em 0 2.5em 0;
     
 
     .paper-box-image{
@@ -57,7 +57,8 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: $box-shadow;
+            border-radius: $border-radius;
             object-fit: cover;
         }
     }
@@ -104,6 +105,8 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: $primary-color;
     font-size: .8em;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
 }
