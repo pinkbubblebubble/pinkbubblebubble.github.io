@@ -3,18 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#education"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications and Preprints"
-    url: "/#-publications-and-preprints"
+    url: "/#publications-and-preprints"
 
-  - title: "Interesting Projects"
-    url: "/#-interesting-projects"
-
+  - title: "Selected Projects"
+    url: "/#selected-projects"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
@@ -23,4 +22,4 @@ main:
   #   url: "/#-invited-talks"
 
   - title: "Service"
-    url: "/#-service"
+    url: "/#service"
