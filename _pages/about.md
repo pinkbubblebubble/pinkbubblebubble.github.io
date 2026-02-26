@@ -45,7 +45,7 @@ Now, I'm actively seeking PhD (Fall 2026) opportunity especially in LLM reasonin
 
 [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://aclanthology.org/2025.emnlp-main.594/)
 
-Jiahao Qiu<sup>_</sup>, Yinghui He<sup>_</sup>, Xinzhe Juan<sup>\*</sup>, **Yimin Wang**, Yuhan Liu, Zixin Yao, Yue Wu, Xun Jiang, Ling Yang, Mengdi Wang
+Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**, Yuhan Liu, Zixin Yao, Yue Wu, Xun Jiang, Ling Yang, Mengdi Wang
 
 <sup>\*</sup> These authors contributed equally to this work.
 
@@ -73,7 +73,7 @@ Jiahao Qiu<sup>_</sup>, Yinghui He<sup>_</sup>, Xinzhe Juan<sup>\*</sup>, **Yimi
 
 [AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes](https://arxiv.org/pdf/2506.14728)
 
-Jiahao Qiu<sup>_</sup>, Xinzhe Juan<sup>_</sup>, **Yimin Wang**<sup>_</sup>, Ling Yang<sup>_</sup>, Xuan Qi, Tongcheng Zhang, Jiacheng Guo, Yifu Lu, Zixin Yao, Hongru Wang, Shilong Liu, Xun Jiang, Liu Leqi, Mengdi Wang
+Jiahao Qiu<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Ling Yang<sup>*</sup>, Xuan Qi, Tongcheng Zhang, Jiacheng Guo, Yifu Lu, Zixin Yao, Hongru Wang, Shilong Liu, Xun Jiang, Liu Leqi, Mengdi Wang
 
 <sup>\*</sup> These authors contributed equally to this work.
 
@@ -87,7 +87,7 @@ Jiahao Qiu<sup>_</sup>, Xinzhe Juan<sup>_</sup>, **Yimin Wang**<sup>_</sup>, Lin
 
 [On Path to Multimodal Historical Reasoning: HistBench and HistAgent](https://arxiv.org/abs/2505.20246)
 
-Jiahao Qiu<sup>_</sup>, Fulian Xiao<sup>_</sup>, **Yimin Wang**<sup>_</sup>, Yuchen Mao<sup>_</sup>, Yijia Chen<sup>\*</sup>, Xinzhe Juan, Shu Zhang, Siran Wang, Xuan Qi, Tongcheng Zhang, Zixin Yao, Jiacheng Guo, Yifu Lu, Charles Argon, Jundi Cui, Daixin Chen, Junran Zhou, Shuyao Zhou, Zhanpeng Zhou, Ling Yang, Shilong Liu, Hongru Wang, Kaixuan Huang, Xun Jiang, ..., Xi Gao, Mengdi Wang
+Jiahao Qiu<sup>*</sup>, Fulian Xiao<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Yuchen Mao<sup>*</sup>, Yijia Chen<sup>*</sup>, Xinzhe Juan, Shu Zhang, Siran Wang, Xuan Qi, Tongcheng Zhang, Zixin Yao, Jiacheng Guo, Yifu Lu, Charles Argon, Jundi Cui, Daixin Chen, Junran Zhou, Shuyao Zhou, Zhanpeng Zhou, Ling Yang, Shilong Liu, Hongru Wang, Kaixuan Huang, Xun Jiang, ..., Xi Gao, Mengdi Wang
 
 <sup>\*</sup> These authors contributed equally to this work
 
@@ -99,7 +99,7 @@ Jiahao Qiu<sup>_</sup>, Fulian Xiao<sup>_</sup>, **Yimin Wang**<sup>_</sup>, Yuc
 
 [Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution](https://arxiv.org/abs/2505.20286)
 
-Jiahao Qiu<sup>_</sup>, Xuan Qi<sup>_</sup>, Tongcheng Zhang<sup>\*</sup>, Xinzhe Juan, Jiacheng Guo, Yifu Lu, **Yimin Wang**, Zixin Yao, Qihan Ren, Xun Jiang, Xing Zhou, Dongrui Liu, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang
+Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Tongcheng Zhang<sup>*</sup>, Xinzhe Juan, Jiacheng Guo, Yifu Lu, **Yimin Wang**, Zixin Yao, Qihan Ren, Xun Jiang, Xing Zhou, Dongrui Liu, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang
 
 <sup>\*</sup> These authors contributed equally to this work.
 
@@ -111,7 +111,7 @@ Jiahao Qiu<sup>_</sup>, Xuan Qi<sup>_</sup>, Tongcheng Zhang<sup>\*</sup>, Xinzh
 
 [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983)
 
-Haozheng Luo<sup>_</sup>, Chenghao Qiu<sup>_</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen
+Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen
 
 <sup>\*</sup> These authors contributed equally to this work.
 
@@ -120,7 +120,7 @@ Haozheng Luo<sup>_</sup>, Chenghao Qiu<sup>_</sup>, **Yimin Wang**, Shang Wu, Ji
 
 <!-- - [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983), Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen, Preprint. -->
 
-- [Alita-G: Self-Evolving Generative Agent for Agent Generation](https://arxiv.org/abs/2510.23601), Jiahao Qiu<sup>_</sup>, Xuan Qi<sup>_</sup>, Hongru Wang<sup>\*</sup>, Xinzhe Juan, **Yimin Wang**, Zelin Zhao, Jiayi Geng, Jiacheng Guo, Peihang Li, Jingzhe Shi, Shilong Liu, Mengdi Wang, Preprint.
+- [Alita-G: Self-Evolving Generative Agent for Agent Generation](https://arxiv.org/abs/2510.23601), Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Hongru Wang<sup>*</sup>, Xinzhe Juan, **Yimin Wang**, Zelin Zhao, Jiayi Geng, Jiacheng Guo, Peihang Li, Jingzhe Shi, Shilong Liu, Mengdi Wang, Preprint.
 - [High-precision control of an antagonistic soft continuum robot for dexterous objects grasping and assembly](https://www.sciencedirect.com/science/article/pii/S0924424725004753), Shoulu Gong, Xinchen Ye, **Yimin Wang**, Wenbo Li, Wenming Zhang, Lei Shao, **Sensors and Actuators A: Physical**.
 - [A Novel Approach to Air Quality Monitoring: Towards Miniature, Self-organized, and Low-power Device](https://ieeexplore.ieee.org/abstract/document/10325267), Tao Wang, Yu Wu, Wangze Ni, Jianhua Yang, **Yimin Wang**, Jiaqing Zhu, Ming Zeng, Nantao Hu, Zhi Yang, **2023 IEEE SENSORS**.
 
