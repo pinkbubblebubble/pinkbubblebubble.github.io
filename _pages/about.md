@@ -59,9 +59,11 @@ Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin
 
 [Learning Agent Routing From Early Experience](https://pinkbubblebubble.github.io/)
 
-**Yimin Wang**, Jiahao Qiu, Xuan Qi, Xinzhe Juan, Jingzhe Shi, Zelin Zhao, Hongru WANG, Shilong Liu, Mengdi Wang
+**Yimin Wang**<sup>*</sup>, Jiahao Qiu<sup>*</sup>, Xuan Qi, Xinzhe Juan, Jingzhe Shi, Zelin Zhao, Hongru WANG, Shilong Liu, Mengdi Wang
 
-<!-- <sup>*</sup> These authors contributed equally to this work. -->
+<sup>*</sup> These authors contributed equally to this work.
+
+Accepted by Lifelong Agent @ ICLR 2026
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -95,7 +97,7 @@ Jiahao Qiu<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Lin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/histagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/histagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On Path to Multimodal Historical Reasoning: HistBench and HistAgent](https://arxiv.org/abs/2505.20246)
@@ -103,6 +105,8 @@ Jiahao Qiu<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Lin
 Jiahao Qiu<sup>*</sup>, Fulian Xiao<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Yuchen Mao<sup>*</sup>, Yijia Chen<sup>*</sup>, Xinzhe Juan, Shu Zhang, Siran Wang, Xuan Qi, Tongcheng Zhang, Zixin Yao, Jiacheng Guo, Yifu Lu, Charles Argon, Jundi Cui, Daixin Chen, Junran Zhou, Shuyao Zhou, Zhanpeng Zhou, Ling Yang, Shilong Liu, Hongru Wang, Kaixuan Huang, Xun Jiang, ..., Xi Gao, Mengdi Wang
 
 <sup>\*</sup> These authors contributed equally to this work
+
+Accepted by Lifelong Agent @ ICLR 2026
 
 </div>
 </div>
