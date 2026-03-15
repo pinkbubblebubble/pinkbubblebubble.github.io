@@ -124,12 +124,18 @@ blockquote {
   }
 }
 
-/* 主页面光晕暗色适配 */
-#main {
-  box-shadow: 0 0 120px 60px var(--glow-color);
+/* greedy-nav 背景暗色适配 */
+.greedy-nav {
+  background: var(--bg-color);
 }
 
 /* badge 暗色适配 */
 .badge {
   background-color: var(--badge-bg);
+}
+
+/* 暗色模式下隐藏链接菜单适配 */
+.greedy-nav .hidden-links {
+  background: var(--card-bg);
+  border-color: var(--border-color);
 }
