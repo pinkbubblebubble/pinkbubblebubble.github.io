@@ -1,7 +1,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+    <div class="masthead__menu" style="display:flex;align-items:center;">
+      <nav id="site-nav" class="greedy-nav" style="flex:1;">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
@@ -10,8 +10,8 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
-        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode" title="切换暗色模式">🌙</button>
       </nav>
+      <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode" title="切换暗色模式">🌙</button>
     </div>
   </div>
 </div>
