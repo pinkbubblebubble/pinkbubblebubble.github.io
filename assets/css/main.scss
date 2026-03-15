@@ -38,8 +38,10 @@
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
+@import "dark-mode";
 @import "print";
 
+/* 论文卡片 */
 .paper-box {
     display: flex;
     justify-content: left;
@@ -48,7 +50,13 @@
     flex-wrap: wrap;
     border-bottom: 1px $border-color solid;
     padding: 2.5em 0 2.5em 0;
-    
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: $border-radius;
+
+    &:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 25px var(--shadow-hover, rgba(0,0,0,0.12));
+    }
 
     .paper-box-image{
         justify-content: center;
@@ -105,8 +113,63 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: $primary-color;
+    background-color: var(--badge-bg, $primary-color);
     font-size: .8em;
     border-radius: $border-radius;
     box-shadow: $box-shadow;
+    transition: transform 0.2s ease;
+
+    &:hover {
+        transform: scale(1.05);
+    }
+}
+
+/* ======== Research Interests 标签云 ======== */
+.research-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6em;
+    margin: 1.2em 0 0.5em 0;
+}
+
+.research-tag {
+    display: inline-block;
+    padding: 0.4em 1em;
+    border-radius: 20px;
+    font-size: 0.88em;
+    font-weight: 500;
+    font-family: $sans-serif;
+    color: #fff;
+    cursor: default;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+
+    &:hover {
+        transform: translateY(-3px) scale(1.04);
+        box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+    }
+
+    /* 每个标签不同配色 */
+    &.tag-reasoning   { background: linear-gradient(135deg, #b8a9c9, #9b8ec0); }
+    &.tag-agents      { background: linear-gradient(135deg, #a3c4d9, #7dafc8); }
+    &.tag-codegen     { background: linear-gradient(135deg, #a3b1a6, #8da394); }
+    &.tag-safety      { background: linear-gradient(135deg, #e6b89c, #d4a07a); }
+    &.tag-self-evolve { background: linear-gradient(135deg, #c4a29e, #b08d89); }
+}
+
+/* ======== 打字机效果 ======== */
+.typewriter-wrapper {
+    margin-bottom: 0.8em;
+    min-height: 1.8em;
+}
+
+.typewriter-text {
+    font-family: $sans-serif;
+    font-size: 1.15em;
+    font-weight: 500;
+    color: var(--primary-color, $primary-color);
+    letter-spacing: 0.02em;
+    border-right: 2px solid var(--primary-color, $primary-color);
+    padding-right: 4px;
+    animation: blink-caret 0.75s step-end infinite;
 }

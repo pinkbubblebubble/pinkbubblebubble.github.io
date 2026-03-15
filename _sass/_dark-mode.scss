@@ -1,0 +1,135 @@
+/* ==========================================================================
+   暗色模式
+   ========================================================================== */
+
+/* 亮色模式 CSS 自定义属性（默认） */
+:root {
+  --bg-color: #faf9f7;
+  --text-color: #3a3a3a;
+  --border-color: #e8e4df;
+  --code-bg: #f5f3f0;
+  --card-bg: #ffffff;
+  --masthead-bg: #ffffff;
+  --primary-color: #c4a29e;
+  --link-color: #c4a29e;
+  --lighter-gray: #{mix(#fff, #7a8288, 90%)};
+  --sidebar-bg: transparent;
+  --badge-bg: #c4a29e;
+  --tag-text: #3a3a3a;
+  --shadow-color: rgba(0, 0, 0, 0.05);
+  --shadow-hover: rgba(0, 0, 0, 0.12);
+  --glow-color: rgba(173, 196, 224, 0.35);
+}
+
+/* 暗色模式颜色覆盖 */
+[data-theme="dark"] {
+  --bg-color: #1a1a2e;
+  --text-color: #e0ddd5;
+  --border-color: #2d2d44;
+  --code-bg: #232340;
+  --card-bg: #22223a;
+  --masthead-bg: #16162b;
+  --primary-color: #d4a9a5;
+  --link-color: #d4a9a5;
+  --lighter-gray: #2a2a42;
+  --sidebar-bg: transparent;
+  --badge-bg: #d4a9a5;
+  --tag-text: #e0ddd5;
+  --shadow-color: rgba(0, 0, 0, 0.25);
+  --shadow-hover: rgba(0, 0, 0, 0.4);
+  --glow-color: rgba(100, 120, 180, 0.2);
+}
+
+/* 应用 CSS 自定义属性到关键元素 */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.masthead {
+  background-color: var(--masthead-bg) !important;
+  border-bottom-color: var(--border-color);
+}
+
+.page__content {
+  h1 {
+    border-bottom-color: var(--border-color);
+  }
+  a {
+    color: var(--link-color);
+  }
+}
+
+hr {
+  border-top-color: var(--border-color);
+}
+
+/* 论文卡片暗色适配 */
+.paper-box {
+  border-bottom-color: var(--border-color);
+}
+
+/* 侧边栏暗色适配 */
+.author__avatar img {
+  border-color: var(--border-color) !important;
+}
+
+/* 代码块暗色适配 */
+p > code,
+a > code,
+li > code,
+figcaption > code,
+td > code {
+  background: var(--code-bg);
+  border-color: var(--border-color);
+}
+
+/* blockquote 暗色适配 */
+blockquote {
+  border-left-color: var(--primary-color);
+}
+
+/* 链接列表暗色适配 */
+.author__urls {
+  background: var(--card-bg);
+  border-color: var(--border-color);
+}
+
+/* 页脚暗色适配 */
+.page__footer {
+  background-color: var(--card-bg);
+  border-top-color: var(--border-color);
+}
+
+/* 导航链接暗色适配 */
+.greedy-nav a {
+  color: var(--text-color);
+}
+
+/* 暗色模式切换按钮 */
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.25rem;
+  padding: 0.25em 0.5em;
+  margin-left: auto;
+  color: var(--text-color);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  line-height: 1;
+
+  &:hover {
+    transform: rotate(20deg) scale(1.1);
+    opacity: 0.8;
+  }
+}
+
+/* 主页面光晕暗色适配 */
+#main {
+  box-shadow: 0 0 120px 60px var(--glow-color);
+}
+
+/* badge 暗色适配 */
+.badge {
+  background-color: var(--badge-bg);
+}

@@ -96,10 +96,16 @@
     min-width: 75px;
     border-radius: 50%;
     box-shadow: $box-shadow;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+    }
+
+    &:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 24px rgba(196, 162, 158, 0.35);
     }
   }
 }

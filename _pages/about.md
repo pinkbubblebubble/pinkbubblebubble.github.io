@@ -17,6 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="typewriter-wrapper">
+  <span class="typewriter-text" id="typewriter"></span>
+</div>
+
 I am Yimin Wang, a senior undergraduate student studying in Data Science Engineering at the University of Michigan, and Mechanical Engineering at Shanghai Jiao Tong University.
 
 My research focuses on large language models (LLMs) and AI agent systems, including self-evolving LLM agents, the reasoning behavior of LLMs in code generation and problem solving, and the safety and robustness of LLMs.
@@ -24,6 +28,14 @@ My research focuses on large language models (LLMs) and AI agent systems, includ
 Broadly, my goal is to develop reliable, interpretable and efficient AI systems that can reason, communicate, and adapt safely across diverse domains.
 
 Now, I'm actively seeking PhD (Fall 2026) opportunity especially in LLM reasoning, LLM agents, and reliable AI system. If you are interested in working with me, please feel free to contact me via [email](mailto:wyimin@umich.edu).
+
+<div class="research-tags">
+  <span class="research-tag tag-reasoning">🧠 LLM Reasoning</span>
+  <span class="research-tag tag-agents">🤖 AI Agents</span>
+  <span class="research-tag tag-codegen">💻 Code Generation</span>
+  <span class="research-tag tag-safety">🛡️ Safety & Robustness</span>
+  <span class="research-tag tag-self-evolve">🔄 Self-Evolving Systems</span>
+</div>
 
 # News
 

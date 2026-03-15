@@ -2,3 +2,104 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+// ======== 打字机效果 ========
+(function() {
+  const phrases = [
+    'LLM Researcher 🔬',
+    'Agent Builder 🤖',
+    'Problem Solver 💡',
+    'PhD Applicant 🎓'
+  ];
+  const el = document.getElementById('typewriter');
+  if (!el) return;
+
+  let phraseIdx = 0;
+  let charIdx = 0;
+  let isDeleting = false;
+  const typeSpeed = 80;
+  const deleteSpeed = 40;
+  const pauseTime = 1800;
+
+  function tick() {
+    const current = phrases[phraseIdx];
+    if (isDeleting) {
+      el.textContent = current.substring(0, charIdx - 1);
+      charIdx--;
+    } else {
+      el.textContent = current.substring(0, charIdx + 1);
+      charIdx++;
+    }
+
+    let delay = isDeleting ? deleteSpeed : typeSpeed;
+
+    if (!isDeleting && charIdx === current.length) {
+      delay = pauseTime;
+      isDeleting = true;
+    } else if (isDeleting && charIdx === 0) {
+      isDeleting = false;
+      phraseIdx = (phraseIdx + 1) % phrases.length;
+      delay = 400;
+    }
+
+    setTimeout(tick, delay);
+  }
+
+  tick();
+})();
+
+// ======== 滚动渐入效果 ========
+(function() {
+  // 给各 section 标题和论文卡片自动添加 scroll-reveal 类
+  const targets = document.querySelectorAll(
+    '.page__content > h1, .paper-box, .research-tags, .page__content > ul, .page__content > p'
+  );
+  targets.forEach(function(el) {
+    el.classList.add('scroll-reveal');
+  });
+
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('revealed');
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+  document.querySelectorAll('.scroll-reveal').forEach(function(el) {
+    observer.observe(el);
+  });
+})();
+
+// ======== 暗色模式切换 ========
+(function() {
+  var toggle = document.getElementById('theme-toggle');
+  if (!toggle) return;
+
+  // 读取保存的主题偏好
+  var savedTheme = localStorage.getItem('theme');
+  // 也可以跟随系统偏好
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  var currentTheme = savedTheme || (prefersDark ? 'dark' : 'light');
+
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+    toggle.setAttribute('title', theme === 'dark' ? '切换亮色模式' : '切换暗色模式');
+    // 更新 meta theme-color
+    var metaTheme = document.querySelector('meta[name="theme-color"]');
+    if (metaTheme) {
+      metaTheme.setAttribute('content', theme === 'dark' ? '#1a1a2e' : '#ffffff');
+    }
+  }
+
+  applyTheme(currentTheme);
+
+  toggle.addEventListener('click', function() {
+    var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    applyTheme(next);
+    localStorage.setItem('theme', next);
+  });
+})();
+</script>
