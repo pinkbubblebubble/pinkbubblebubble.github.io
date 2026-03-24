@@ -21,7 +21,7 @@ redirect_from:
   <span class="typewriter-text" id="typewriter"></span>
 </div>
 
-I am an incoming Computer Science Ph.D. student at [UCLA](https://www.cs.ucla.edu/), where I will be advised by [Prof. Yangruibo (Robin) Ding](https://robin-y-ding-columbia.github.io/). I obtained my B.S.E in Data Science from the [University of Michigan](https://umich.edu/) and B.E in Mechanical Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+I am a senior undergraduate student studying Data Science at the [University of Michigan](https://umich.edu/) and Mechanical Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I will be joining [UCLA](https://www.cs.ucla.edu/) as a Computer Science Ph.D. student, advised by [Prof. Yangruibo (Robin) Ding](https://robin-y-ding-columbia.github.io/).
 
 I am a research intern at [Princeton University](https://www.princeton.edu/), working with [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang) on AI agent systems and with [Prof. Sanfeng Wu](https://phy.princeton.edu/people/sanfeng-wu) on AI for quantum materials, where I work closely with [Jiahao Qiu](https://github.com/CharlesQ9) and [Shilong Liu](https://www.lsl.zone/). I also work with [Prof. Yan Chen](https://users.cs.northwestern.edu/~ychen/) at [Northwestern University](https://www.northwestern.edu/) on LLM reasoning and AI safety, where I work closely with [Haozheng (Robin) Luo](https://luor.org/). At the University of Michigan, I work closely with [Xinliang (Frederick) Zhang](https://web.eecs.umich.edu/~xlfzhang/) and [Kaijian Zou](https://zkjzou.github.io/).
 
