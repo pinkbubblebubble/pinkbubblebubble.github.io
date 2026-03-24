@@ -21,13 +21,13 @@ redirect_from:
   <span class="typewriter-text" id="typewriter"></span>
 </div>
 
-I am Yimin Wang, a senior undergraduate student studying in Data Science Engineering at the University of Michigan, and Mechanical Engineering at Shanghai Jiao Tong University.
+I am an incoming Computer Science Ph.D. student at [UCLA](https://www.cs.ucla.edu/), where I will be advised by [Prof. Yangruibo (Robin) Ding](https://robin-y-ding-columbia.github.io/). I obtained my B.S.E in Data Science from the [University of Michigan](https://umich.edu/) and B.E in Mechanical Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-My research focuses on large language models (LLMs) and AI agent systems, including self-evolving LLM agents, the reasoning behavior of LLMs in code generation and problem solving, and the safety and robustness of LLMs.
+I am a research intern at [Princeton University](https://www.princeton.edu/), working with [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang) on AI agent systems and with [Prof. Sanfeng Wu](https://phy.princeton.edu/people/sanfeng-wu) on AI for quantum materials, where I work closely with [Jiahao Qiu](https://github.com/CharlesQ9) and [Shilong Liu](https://www.lsl.zone/). I also work with [Prof. Yan Chen](https://users.cs.northwestern.edu/~ychen/) at [Northwestern University](https://www.northwestern.edu/) on LLM reasoning and AI safety, where I work closely with [Haozheng (Robin) Luo](https://luor.org/). At the University of Michigan, I work closely with [Xinliang (Frederick) Zhang](https://web.eecs.umich.edu/~xlfzhang/) and [Kaijian Zou](https://zkjzou.github.io/).
 
-Broadly, my goal is to develop reliable, interpretable and efficient AI systems that can reason, communicate, and adapt safely across diverse domains.
+My research interests lie in **Large Language Models** and **Agentic AI**, with a focus on LLM reasoning, self-evolving AI agents, and the safety & robustness of LLM-based systems. I also have experience in code generation and multimodal systems.
 
-Now, I'm actively seeking PhD (Fall 2026) opportunity especially in LLM reasoning, LLM agents, and reliable AI system. If you are interested in working with me, please feel free to contact me via [email](mailto:wyimin@umich.edu).
+If you are interested in collaborating, feel free to reach out 🤝
 
 <div class="research-tags">
   <span class="research-tag tag-reasoning">🧠 LLM Reasoning</span>
