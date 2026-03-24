@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yimin Wang"
+title                    : "Yimin (Claire) Wang"
 description              : ""
 repository               : "pinkbubblebubble/pinkbubblebubble.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yimin Wang"
+  name             : "Yimin (Claire) Wang"
   avatar           : "images/photo.jpg"
-  bio              : "Senior Undergraduate\nUniversity of Michigan | Shanghai Jiao Tong University"
+  bio              : "Incoming CS Ph.D.\nUCLA"
   location         : "Ann Arbor, USA"
   employer         :
   pubmed           : 
