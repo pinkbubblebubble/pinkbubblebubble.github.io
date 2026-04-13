@@ -69,7 +69,7 @@ Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/agentrouting.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Agent Routing From Early Experience](https://pinkbubblebubble.github.io/)
+[Learning Agent Routing From Early Experience](https://openreview.net/forum?id=LiE8vCbtuq)
 
 **Yimin Wang**<sup>*</sup>, Jiahao Qiu<sup>*</sup>, Xuan Qi, Xinzhe Juan, Jingzhe Shi, Zelin Zhao, Hongru WANG, Shilong Liu, Mengdi Wang
 
@@ -86,7 +86,7 @@ Accepted by Lifelong Agent @ ICLR 2026
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/craft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](https://pinkbubblebubble.github.io/)
+[Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](https://arxiv.org/abs/2603.17305)
 
 Haozheng Luo<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Jiahao Yu, Binghui Wang, Yan Chen
 
@@ -180,6 +180,7 @@ Developed by Li Qichen, Wang Yimin, Wu Lv, You Yuchen
 
 # Service
 
+- Reviewer: COLM 2026, ICLR 2026 Workshop, CVPR 2026 Workshops.
 - _2025.09 - 2025.12_, Grader for EECS496 Professionalism (Major Design Experience), University of Michigan, USA.
 - _2024.09 - 2024.12_, Teaching assistant for ME395 Laboratory I, Shanghai Jiao Tong University, China.
 - _2024.05 - 2024.08_, Teaching assistant for ENGR100 Intro to Engineering, Shanghai Jiao Tong Univeristy, China.
