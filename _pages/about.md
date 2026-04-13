@@ -180,7 +180,7 @@ Developed by Li Qichen, Wang Yimin, Wu Lv, You Yuchen
 
 # Service
 
-- Reviewer: COLM 2026, ICLR 2026 Workshop, CVPR 2026 Workshops.
+- Reviewer: COLM 2026, ICLR 2026 Workshops, CVPR 2026 Workshops.
 - _2025.09 - 2025.12_, Grader for EECS496 Professionalism (Major Design Experience), University of Michigan, USA.
 - _2024.09 - 2024.12_, Teaching assistant for ME395 Laboratory I, Shanghai Jiao Tong University, China.
 - _2024.05 - 2024.08_, Teaching assistant for ENGR100 Intro to Engineering, Shanghai Jiao Tong Univeristy, China.
