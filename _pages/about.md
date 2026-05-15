@@ -39,6 +39,8 @@ If you are interested in collaborating, feel free to reach out 🤝
 
 # News
 
+- _2026.05_: My two co-first authored papers, _On Path to Multimodal Historical Reasoning: HistBench and HistAgent_ and _Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations_, are accepted to ICML 2026!
+- _2026.03_: My first-authored paper _Learning Agent Routing From Early Experience_ and co-first authored paper _On Path to Multimodal Historical Reasoning: HistBench and HistAgent_ are accepted to the Lifelong Agent Workshop at ICLR 2026!
 - _2025.08_: My first co-authored paper in AI area, _EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety_, is accepted to EMNLP 2025 Main Conference (**oral**)!
 
 ---
@@ -52,21 +54,35 @@ If you are interested in collaborating, feel free to reach out 🤝
 
 # Publications and Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Oral</div><img src='images/emoagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/craft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://aclanthology.org/2025.emnlp-main.594/)
+[Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](https://arxiv.org/abs/2603.17305)
 
-Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**, Yuhan Liu, Zixin Yao, Yue Wu, Xun Jiang, Ling Yang, Mengdi Wang
+Haozheng Luo<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Jiahao Yu, Binghui Wang, Yan Chen
 
-<sup>\*</sup> These authors contributed equally to this work.
+<sup>*</sup> These authors contributed equally to this work.
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/agentrouting.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/histagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[On Path to Multimodal Historical Reasoning: HistBench and HistAgent](https://arxiv.org/abs/2505.20246)
+
+Jiahao Qiu<sup>*</sup>, Fulian Xiao<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Yuchen Mao<sup>*</sup>, Yijia Chen<sup>*</sup>, Xinzhe Juan, Shu Zhang, Siran Wang, Xuan Qi, Tongcheng Zhang, Zixin Yao, Jiacheng Guo, Yifu Lu, Charles Argon, Jundi Cui, Daixin Chen, Junran Zhou, Shuyao Zhou, Zhanpeng Zhou, Ling Yang, Shilong Liu, Hongru Wang, Kaixuan Huang, Xun Jiang, ..., Xi Gao, Mengdi Wang
+
+<sup>\*</sup> These authors contributed equally to this work
+
+Accepted by Lifelong Agent @ ICLR 2026; **ICML 2026**
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLA @ ICLR 2026</div><img src='images/agentrouting.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Agent Routing From Early Experience](https://openreview.net/forum?id=LiE8vCbtuq)
@@ -83,17 +99,20 @@ Accepted by Lifelong Agent @ ICLR 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/craft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Oral</div><img src='images/emoagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations](https://arxiv.org/abs/2603.17305)
+[EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://aclanthology.org/2025.emnlp-main.594/)
 
-Haozheng Luo<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Jiahao Yu, Binghui Wang, Yan Chen
+Jiahao Qiu<sup>*</sup>, Yinghui He<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**, Yuhan Liu, Zixin Yao, Yue Wu, Xun Jiang, Ling Yang, Mengdi Wang
 
-<sup>*</sup> These authors contributed equally to this work.
+<sup>\*</sup> These authors contributed equally to this work.
 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agentdistill.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -109,20 +128,6 @@ Jiahao Qiu<sup>*</sup>, Xinzhe Juan<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Lin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='images/histagent.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[On Path to Multimodal Historical Reasoning: HistBench and HistAgent](https://arxiv.org/abs/2505.20246)
-
-Jiahao Qiu<sup>*</sup>, Fulian Xiao<sup>*</sup>, **Yimin Wang**<sup>*</sup>, Yuchen Mao<sup>*</sup>, Yijia Chen<sup>*</sup>, Xinzhe Juan, Shu Zhang, Siran Wang, Xuan Qi, Tongcheng Zhang, Zixin Yao, Jiacheng Guo, Yifu Lu, Charles Argon, Jundi Cui, Daixin Chen, Junran Zhou, Shuyao Zhou, Zhanpeng Zhou, Ling Yang, Shilong Liu, Hongru Wang, Kaixuan Huang, Xun Jiang, ..., Xi Gao, Mengdi Wang
-
-<sup>\*</sup> These authors contributed equally to this work
-
-Accepted by Lifelong Agent @ ICLR 2026
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/alita.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -134,7 +139,7 @@ Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Tongcheng Zhang<sup>*</sup>, Xinzhe
 
 </div>
 </div>
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/genoarmory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -145,10 +150,11 @@ Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Ji
 <sup>\*</sup> These authors contributed equally to this work.
 
 </div>
-</div>
+</div> -->
 
 <!-- - [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983), Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen, Preprint. -->
 
+- [GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models](https://arxiv.org/abs/2505.10983), Haozheng Luo<sup>*</sup>, Chenghao Qiu<sup>*</sup>, **Yimin Wang**, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu, Binghui Wang, Yan Chen, Preprint.
 - [Alita-G: Self-Evolving Generative Agent for Agent Generation](https://arxiv.org/abs/2510.23601), Jiahao Qiu<sup>*</sup>, Xuan Qi<sup>*</sup>, Hongru Wang<sup>*</sup>, Xinzhe Juan, **Yimin Wang**, Zelin Zhao, Jiayi Geng, Jiacheng Guo, Peihang Li, Jingzhe Shi, Shilong Liu, Mengdi Wang, Preprint.
 - [High-precision control of an antagonistic soft continuum robot for dexterous objects grasping and assembly](https://www.sciencedirect.com/science/article/pii/S0924424725004753), Shoulu Gong, Xinchen Ye, **Yimin Wang**, Wenbo Li, Wenming Zhang, Lei Shao, **Sensors and Actuators A: Physical**.
 - [A Novel Approach to Air Quality Monitoring: Towards Miniature, Self-organized, and Low-power Device](https://ieeexplore.ieee.org/abstract/document/10325267), Tao Wang, Yu Wu, Wangze Ni, Jianhua Yang, **Yimin Wang**, Jiaqing Zhu, Ming Zeng, Nantao Hu, Zhi Yang, **2023 IEEE SENSORS**.
@@ -180,7 +186,7 @@ Developed by Li Qichen, Wang Yimin, Wu Lv, You Yuchen
 
 # Service
 
-- Reviewer: COLM 2026, ICLR 2026 Workshops, CVPR 2026 Workshops.
+- Reviewer: COLM 2026, ICLR 2026 Workshops.
 - _2025.09 - 2025.12_, Grader for EECS496 Professionalism (Major Design Experience), University of Michigan, USA.
 - _2024.09 - 2024.12_, Teaching assistant for ME395 Laboratory I, Shanghai Jiao Tong University, China.
 - _2024.05 - 2024.08_, Teaching assistant for ENGR100 Intro to Engineering, Shanghai Jiao Tong Univeristy, China.
